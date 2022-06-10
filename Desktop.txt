@@ -1,0 +1,41 @@
+	--------------------------------------------------------------------
+
+Editing ->
+	Audacity
+
+
+Graphics ->
+	Gimp
+	Blender
+	Inkscape
+
+Dev ->
+	Insomninia
+	VScode
+	MySQL Workbench
+	Git
+	Restyaboard
+
+
+Midia ->
+	VLC
+	Cpod
+	Spotify
+	Stremio
+	Kohaa
+
+	
+Office ->
+	OnlyOffice
+		+ Plugins
+	
+Social ->
+	Fluent Reader
+	Signal
+	Discord
+	Telegram
+	WhatsApp
+	Instagram
+	Thunderbird
+	
+	--------------------------------------------------------------------
