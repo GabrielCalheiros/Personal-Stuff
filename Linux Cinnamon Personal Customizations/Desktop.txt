@@ -1,0 +1,59 @@
+	--------------------------------------------------------------------
+
+Editing ->
+	Audacity
+
+
+Graphics ->
+	Gimp
+	Blender
+	Inkscape
+	DIA
+
+Dev ->
+	Insomninia
+	VScode
+	MySQL Workbench
+	Git
+	Restyaboard
+
+
+Midia ->
+	VLC
+	Cpod
+	Spotify
+	Stremio
+	Kohaa
+
+	
+Office ->
+	OnlyOffice
+		+ Plugins
+	
+Social ->
+	Fluent Reader
+	QuiteRSS
+	Signal
+	Discord
+	Telegram
+		+ Theme
+	WhatsApp
+	Instagram
+	Thunderbird
+	
+	--------------------------------------------------------------------
+
+	Desktop Configuration Script
+
+	- Install Softwares
+	- Config softwares in groups on the menu
+
+
+	- Edit grub
+	- Edit Greeting Screen
+
+	- System
+		- Install Theme
+		- Install fonts
+		- Install Icons
+		- Config Background
